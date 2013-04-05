@@ -6,10 +6,14 @@ BBDW-Query contains a number of query views that enable users to build ad-hoc qu
 ## Requirements: ##
 
 Blackbaud CRM 3.0 or higher is installed</br>
+
 The Blackbaud Data Warehouse has been deployed and refreshed</br>
 
 
 ## Resources ##
+
+[Blackbaud Developer Network](http://www.bbdevnetwork.com/)
+
 [Blackbaud Data Warehouse Documentation](https://www.blackbaud.com/files/support/guides/infinitydevguide/infsdk-developer-help.htm#../Subsystems/bbdw-developer-help/content/welcomebbdwsdk.htm)
 
 [Blackbaud Infinity Query Documentation](https://www.blackbaud.com/files/support/guides/infinitydevguide/infsdk-developer-help.htm#../Subsystems/infquery-developer-help/Content/InfinityQuery/WelcomeInfinityQuery.htm%3FTocPath%3DQuery%7C_____0)
