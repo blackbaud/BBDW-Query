@@ -72,6 +72,7 @@
         <common:Dependency CatalogAssembly="Blackbaud.OpenFx.BBDW.Query.Catalog.dll" CatalogItem="Blackbaud.OpenFx.BBDW.Query.Catalog.Constituent.RevenueSolicitor.Query.xml" />
         <common:Dependency CatalogAssembly="Blackbaud.OpenFx.BBDW.Query.Catalog.dll" CatalogItem="Blackbaud.OpenFx.BBDW.Query.Catalog.Constituent.Membership.Query.xml" />
         <common:Dependency CatalogAssembly="Blackbaud.OpenFx.BBDW.Query.Catalog.dll" CatalogItem="Blackbaud.OpenFx.BBDW.Query.Catalog.Constituent.Relationship.Query.xml" />
+        <common:Dependency CatalogAssembly="Blackbaud.OpenFx.BBDW.Query.Catalog.dll" CatalogItem="Blackbaud.OpenFx.BBDW.Query.Catalog.Constituent.EventRegistrantBenefit.Query.xml" />
   </common:DependencyList>
 
 </PackageSpec>

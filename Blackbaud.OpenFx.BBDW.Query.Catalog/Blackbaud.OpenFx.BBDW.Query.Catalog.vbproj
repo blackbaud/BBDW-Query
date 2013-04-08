@@ -118,7 +118,7 @@
     <EmbeddedResource Include="Constituent\Constituent.Constituency.SimpleList.xml" />
     <EmbeddedResource Include="Constituent\Constituent.RevenueCampaign.Query.xml" />
     <EmbeddedResource Include="Constituent\Constituent.RecognitionCredit.Query.xml" />
-    <EmbeddedResource Include="Constituent\Constituent.EventRegistrantBenefit.xml" />
+    <EmbeddedResource Include="Constituent\Constituent.EventRegistrantBenefit.Query.xml" />
     <EmbeddedResource Include="Constituent\Constituent.Membership.Query.xml">
       <SubType>Designer</SubType>
     </EmbeddedResource>
